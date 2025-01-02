@@ -1,0 +1,8 @@
+# Excluir a pasta __pycache__
+__pycache__/
+
+# Excluir a pasta test
+test/
+
+# Excluir todos os arquivos com extensão .lprof
+*.lprof
